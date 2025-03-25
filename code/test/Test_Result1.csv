@@ -1,0 +1,2 @@
+id,Asofdate,Company,Account,AU,Currency,Primary Account,Secondary Account,GL Balance,IHub balance,Balance difference,Match Status,Days_Since_Last,GL_Change,IHub_Change,Diff_Change,GL_Std,IHub_Std,Anomaly_Score,Anomaly
+0,2024-04-30,00000,1619205,4398,USD,ALL OTHER LOANS,DEFERRED COSTS,20000.0,60000,-40000.0,0,30.0,0.0,20000.0,-20000.0,0.0,20000.0,-0.011438,1
